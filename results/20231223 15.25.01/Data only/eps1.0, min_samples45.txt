@@ -1,0 +1,16 @@
+eps:         1.0
+min_samples: 45
+Silhouette score including outliers: -0.8046338396820497
+Silhouette score excluding outliers: 0.9995652481538747
+
+  Cluster ID    Cluster size    Min Dr Scratch    Max Dr Scratch    Min CC    Max CC    Min blocks    Max blocks    Min procedures    Max procedures    Min sprites    Max sprites
+------------  --------------  ----------------  ----------------  --------  --------  ------------  ------------  ----------------  ----------------  -------------  -------------
+          -1           17274                16                21         1       246             0         29378                 0               372              0            408
+           0              53                20                20        20        20          3203          3206                51                51             17             17
+           1              96                17                17        19        19          2398          2401                30                30             29             29
+           2              46                16                16        30        30          1658          1658                 0                 0              9              9
+           3              64                18                18        17        17          4568          4572                 8                 8             84             84
+           4              93                16                16       121       121           761           763                 3                 3              6              6
+           5              46                18                18        19        19           522           523                 0                 1              5              5
+           6              78                20                20        21        21          1921          1923                 2                 2             33             33
+           7             118                18                18         2         2            95            95                 0                 0              1              1

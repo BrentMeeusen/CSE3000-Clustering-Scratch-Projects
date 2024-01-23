@@ -1,0 +1,14 @@
+eps:         4.5
+min_samples: 55
+Silhouette score including outliers: -0.12238822236662086
+Silhouette score excluding outliers: 0.8879765197617288
+
+  Cluster ID    Cluster size    Min Dr Scratch    Max Dr Scratch    Min CC    Max CC    Min blocks    Max blocks    Min procedures    Max procedures    Min sprites    Max sprites
+------------  --------------  ----------------  ----------------  --------  --------  ------------  ------------  ----------------  ----------------  -------------  -------------
+          -1           10718                16                21         1       246             0         29378                 0               372              0            408
+           0            6709                16                21         1        13            36           294                 0                 7              1             18
+           1              61                20                20        20        20          3203          3212                51                51             16             18
+           2             122                17                17        19        19          2391          2407                30                30             27             30
+           3              73                18                18        17        17          4564          4576                 8                 8             84             84
+           4              99                16                16       121       121           761           767                 3                 4              6              8
+           5              86                20                20        21        21          1918          1929                 2                 2             33             34

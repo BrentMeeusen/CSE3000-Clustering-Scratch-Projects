@@ -1,0 +1,16 @@
+eps:         3.5
+min_samples: 60
+Silhouette score including outliers: -0.43910209646320436
+Silhouette score excluding outliers: 0.4304552537732335
+
+  Cluster ID    Cluster size    Min Dr Scratch    Max Dr Scratch    Min CC    Max CC    Min blocks    Max blocks    Min procedures    Max procedures    Min sprites    Max sprites
+------------  --------------  ----------------  ----------------  --------  --------  ------------  ------------  ----------------  ----------------  -------------  -------------
+          -1           12380                16                21         1       246             0         29378                 0               372              0            408
+           0             108                16                21         2         7           224           234                 0                 4              5             12
+           1            4656                16                21         1        10            44           196                 0                 6              1             12
+           2             113                17                17        19        19          2395          2405                30                30             28             29
+           3             233                16                20         1         9           196           210                 0                 4              3             12
+           4              73                18                18        17        17          4564          4576                 8                 8             84             84
+           5              98                16                16       121       121           761           767                 3                 4              6              6
+           6             122                16                20         1         8           209           218                 0                 4              4             11
+           7              85                20                20        21        21          1918          1926                 2                 2             33             34
